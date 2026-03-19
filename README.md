@@ -10,7 +10,7 @@ An AI-powered IT Helpdesk Assistant built with **Streamlit**, featuring an **A2A
 - **A2A Orchestration Layer** — Agent-to-Agent protocol for seamless task delegation
 - **MCP Integration** — Model Context Protocol tools for structured ticket operations
 - **Session Management** — Persistent chat history with easy reset functionality
-  - **Real-time Processing** — Instant AI-powered responses to helpdesk queries
+- **Real-time Processing** — Instant AI-powered responses to helpdesk queries
        
   ---
 
@@ -49,8 +49,7 @@ An AI-powered IT Helpdesk Assistant built with **Streamlit**, featuring an **A2A
             ```bash
             streamlit run app.py
             ```
-
-            ---
+    ---
 
             ## 🛠️ Tech Stack
 
@@ -60,8 +59,7 @@ An AI-powered IT Helpdesk Assistant built with **Streamlit**, featuring an **A2A
             | Streamlit | Web UI framework |
             | A2A Protocol | Agent orchestration |
             | MCP | Model Context Protocol |
-
-            ---
+  ---
 
             ## 📝 Usage
 
@@ -69,8 +67,8 @@ An AI-powered IT Helpdesk Assistant built with **Streamlit**, featuring an **A2A
             2. Enter your query in the text input (e.g., "show weekly report" or "open tickets")
             3. Click **Ask** to get AI-powered responses
             4. Use the sidebar to start a new chat session
-                    
-            5. ---
+
+   ---
                     
             ## 📄 License
                     
