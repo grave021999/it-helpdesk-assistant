@@ -1,3 +1,4 @@
+<img width="1280" height="579" alt="banner" src="https://github.com/user-attachments/assets/cd1a47da-830f-4f5f-8e1a-9ff02ce63949" />
 # 🤖 IT Helpdesk Assistant
 
 An AI-powered IT Helpdesk Assistant built with **Streamlit**, featuring an **A2A (Agent-to-Agent) orchestration layer** and **MCP (Model Context Protocol)** integration for intelligent IT ticket querying and support.
