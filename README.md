@@ -66,12 +66,12 @@ An AI-powered IT Helpdesk Assistant built with **Streamlit**, featuring an **A2A
             ## 📝 Usage
 
             1. Launch the application with `streamlit run app.py`
-            2. 2. Enter your query in the text input (e.g., "show weekly report" or "open tickets")
-               3. 3. Click **Ask** to get AI-powered responses
-                  4. 4. Use the sidebar to start a new chat session
+            2. Enter your query in the text input (e.g., "show weekly report" or "open tickets")
+            3. Click **Ask** to get AI-powered responses
+            4. Use the sidebar to start a new chat session
                     
-                     5. ---
+            5. ---
                     
-                     6. ## 📄 License
+            6. ## 📄 License
                     
-                     7. This project is open source and available under the [MIT License](LICENSE).
+            7. This project is open source and available under the [MIT License](LICENSE).
