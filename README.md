@@ -72,6 +72,6 @@ An AI-powered IT Helpdesk Assistant built with **Streamlit**, featuring an **A2A
                     
             5. ---
                     
-            6. ## 📄 License
+            ## 📄 License
                     
-            7. This project is open source and available under the [MIT License](LICENSE).
+            This project is open source and available under the [MIT License](LICENSE).
