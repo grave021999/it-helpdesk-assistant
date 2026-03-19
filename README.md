@@ -7,12 +7,12 @@ An AI-powered IT Helpdesk Assistant built with **Streamlit**, featuring an **A2A
 ## ✨ Features
 
 - **Conversational Chat Interface** — Natural language querying for IT tickets via Streamlit
-- - **A2A Orchestration Layer** — Agent-to-Agent protocol for seamless task delegation
-  - - **MCP Integration** — Model Context Protocol tools for structured ticket operations
-    - - **Session Management** — Persistent chat history with easy reset functionality
-      - - **Real-time Processing** — Instant AI-powered responses to helpdesk queries
+- **A2A Orchestration Layer** — Agent-to-Agent protocol for seamless task delegation
+- **MCP Integration** — Model Context Protocol tools for structured ticket operations
+- **Session Management** — Persistent chat history with easy reset functionality
+  - **Real-time Processing** — Instant AI-powered responses to helpdesk queries
        
-        - ---
+  ---
 
         ## 🏗️ Architecture
 
